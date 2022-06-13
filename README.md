@@ -5,6 +5,7 @@
 - I’m looking to collaborate on new projects.
 - - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ivailo-petrov-977141237/)
 
+
 <!--
 **IvoPetrov96/IvoPetrov96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

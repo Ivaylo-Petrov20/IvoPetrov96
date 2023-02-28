@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on projects.
-- - 🌱 I’m currently learning JavaScript.
-- I’m looking to collaborate on new projects.
 - - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ivailo-petrov-977141237/)
 
 
